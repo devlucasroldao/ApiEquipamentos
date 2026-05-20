@@ -121,7 +121,7 @@ A rota `/equipamentos/validado` aplica as seguintes validações antes de salvar
 
 ## 🎬 Vídeo explicativo
 
-Link do vídeo: (ainda em produção)
+Link do vídeo: [Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=Iw5lTH2VqLM)
 
 ---
 
